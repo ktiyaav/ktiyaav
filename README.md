@@ -14,7 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ktiyaav&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ktiyaav&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=7IG3R&color=dc143c)
 [![](https://visitcount.itsvg.in/api?id=ktiyaav&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
